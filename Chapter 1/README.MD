@@ -2,6 +2,8 @@
 
 This chapter introduces the very first steps into Python programming, covering essential concepts and hands-on exercises.
 
+---
+
 # 🖥️ Topics Covered
 1. First Python Program
 
@@ -34,10 +36,14 @@ pip uninstall pyjokes
 
 - Learned how to add comments to make code more readable.
 
+---
+
 # 🏋️‍♂️ Practice Set
 
 - Text-to-Speech with pyttsx3
 - Installed and used the pyttsx3 module to convert text to speech.
+
+---
 
 # 💡 Key Takeaways
 
