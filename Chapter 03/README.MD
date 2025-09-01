@@ -28,6 +28,7 @@ This chapter focuses on strings, indexing, slicing, and functions — essential 
 # Escape Sequences
 
 - Special characters are represented using escape sequences:
+```
 | Escape | Meaning |
 |--------|-----------------|
 | \n | New line |
@@ -35,7 +36,7 @@ This chapter focuses on strings, indexing, slicing, and functions — essential 
 | \\ | Backslash |
 | \' | Single quote |
 | \" | Double quote |
-
+```
 ---
 # String Functions / Methods
 
