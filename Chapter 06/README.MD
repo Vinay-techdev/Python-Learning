@@ -1,4 +1,4 @@
-# Chapter 06 – Conditional Statements & Loops
+# 📘 Chapter 06 – Conditional Statements & Loops
 
 This chapter covers **decision making** and **repeating tasks** in Python.  
 
@@ -29,7 +29,7 @@ This chapter covers **decision making** and **repeating tasks** in Python.
 - **While Loop** - Used when we don’t know how many times but have a condition to stop.
 
 
-# ⚠️ Always make sure condition will become False one day, else it runs forever (infinite loop).
+-⚠️ Always make sure condition will become False one day, else it runs forever (infinite loop).
 
 ---
 
