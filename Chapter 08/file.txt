@@ -1,0 +1,4 @@
+Vinay - A full stack developer
+
+A passionate full stack developer who loves building interactive user interfaces and scalable backend APIs. 
+I focus on writing clean, efficient code and continuously learning modern technologies.
