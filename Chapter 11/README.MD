@@ -115,10 +115,6 @@ for index, fruit in enumerate(fruits):
 
 ---
 
-Got it! Here’s a **clean table** + **key takeaways** for Chapter 11:
-
----
-
 ## **Feature Table**
 
 | **Feature**                | **Explanation**                              | **Example**                                    |                                    |              |     |
