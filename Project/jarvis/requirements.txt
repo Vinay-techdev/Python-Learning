@@ -1,0 +1,5 @@
+Python 3.8+
+speechrecognition
+pyttsx3
+requests
+python-dotenv
